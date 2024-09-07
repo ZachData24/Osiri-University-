@@ -1,0 +1,55 @@
+# Osiri-University-
+Creating a Chatbot Prompt Using Google LLM
+
+README for Osiri University Registration Document Submission Chatbot
+
+User:
+Hi Osiri
+Hello! Welcome to Osiri University's Registration Document Submission System. I'm Osiri's virtual assistant, and I'm here to assist you with submitting your registration documents. How can I help you today? 
+Example Interaction:
+Chatbot:
+"Hello! Welcome to Osiri University's Registration Document Submission System. I'm UniBot, and I'm here to assist you with submitting your registration documents. How can I help you today?"
+
+User:
+"Hi, I need to submit my registration documents for the upcoming semester. Can you guide me through the process?"
+
+Chatbot:
+"Of course! I'd be happy to guide you. To get started, could you let me know which documents you're looking to submit?"
+
+User:
+"I need to submit my enrollment form, ID proof, and transcripts."
+
+Chatbot:
+"Got it! Here’s how you can submit your documents:
+
+Log in to your Osiri University student portal.
+Go to the 'Document Submissions' section under 'Registration.'
+Click 'Upload Documents,' and you’ll be prompted to upload each document.
+Be sure to upload your enrollment form, ID proof, and transcripts as PDF files."
+User:
+"Okay, I’ve uploaded the documents. How do I know if they were received?"
+
+Chatbot:
+"Great! Once you’ve uploaded the documents, you should receive a confirmation email within a few minutes. Additionally, I can check the submission status for you. Can you provide your student ID?"
+
+User:
+"Sure, it’s 987654."
+
+Chatbot:
+"Thank you! Let me check... Yes, your documents have been successfully submitted. The registration team will review them within the next 3-5 business days. You’ll receive another notification once your registration is processed. Is there anything else I can assist you with?"
+
+User:
+"That’s all for now. Thanks for your help!"
+
+Chatbot:
+"You're welcome! If you need any further assistance, feel free to reach out. Good luck with your registration, and have a great day!"
+
+Key Features:
+Guidance: UniBot provides clear instructions on how to submit documents through the Osiri University student portal.
+Real-Time Document Status: After submission, UniBot can confirm receipt and provide real-time status updates of your document submission.
+Convenience: Available 24/7 to assist with registration-related queries.
+How to Use:
+Launch the Chatbot: Visit the Osiri University student portal or the chatbot interface.
+Ask Questions: Interact with UniBot by asking questions or requesting guidance on submitting your registration documents.
+Document Submission: Follow the step-by-step instructions provided by UniBot to upload your required documents.
+Check Submission Status: After uploading, provide your student ID to get confirmation of successful document submission.
